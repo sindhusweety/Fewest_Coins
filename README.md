@@ -1,8 +1,8 @@
 # Fewest_Coins
-Find a minimum number of coins from coins list
 
-Find a minimum number of coins from a list of coins
-The Sum of minimum numbers must equal the target value
+Find a minimum number of coins from a list of coins.
+The Sum of minimum numbers must equal the target value.
+
 Used BackTracking technique that explores all the possibilities(solutions)
 to choose an optimal solution from all possible solutions
 
