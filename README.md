@@ -14,7 +14,11 @@ In sub-function, minus min value (min value found in coins &
 min value that closes to target) from target recursively
 till it gets the base case.
 
+To check lint cases
+
 pylint change.py
+
+To run the file
 
 pytest change.py
 
