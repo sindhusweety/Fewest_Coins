@@ -13,3 +13,9 @@ sub-function must have a base case and it must call itself
 In sub-function, minus min value (min value found in coins &
 min value that closes to target) from target recursively
 till it gets the base case.
+
+pylint change_test.py
+
+pytest change_test.py
+
+python3 change_test.py
